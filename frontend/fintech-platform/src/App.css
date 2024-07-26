@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Middle {
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(28, 28, 28);
+}
+
+h1 {
+  padding: 20px;
+  background-color: #525050;
+  color: #908c8c;
+  font-family: unset;
+}
+
+h2 {
+  padding: 15px;
+  color: antiquewhite;
+}
+
+input{
+  display: block;
+  margin: 30px auto;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+
+.button {
+  width: 80px;
+  padding: 5px;
+  font-family: monospace;
+}
+
+.regbutton {
+  position: absolute;
+  top: 32px;
+  right: 38px;
+  padding: 2px 0px;
+  font-family: revert-layer;
+}
+
+.transaction-boxes {
+  width: 30px;
+  display: block;
+  margin: 20px auto;
+  padding: 7px;
+  width: 300px;
+  color: antiquewhite;
+}
